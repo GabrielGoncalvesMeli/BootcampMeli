@@ -1,4 +1,6 @@
-public class Vetores {
+package arrays;
+
+public class Java01Pratica01 {
     public static void main(String[] args) {
         String[] cities = {"Londres", "Madrid", "Nueva York", "Buenos Aires", "Asunción",
                 "São Paulo", "Lima", "Santiago de Chile", "Lisboa", "Tokio"};
@@ -18,8 +20,7 @@ public class Vetores {
                 }
                 if(temperatures[i][0] < lowerTemperature) {
                     lowerTemperature = temperatures[i][0];
-                    lowerPosition = i;git
-                            ]
+                    lowerPosition = i;
                 }
         }
 
