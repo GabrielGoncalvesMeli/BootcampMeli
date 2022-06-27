@@ -4,8 +4,8 @@ ___
 
 ### - Exercícios
 
-- [x] Git e Github &rarr; [repo](https://github.com/GabrielGoncalvesMeli/BootcampMeli/tree/main/git)
+:heavy_check_mark: Git e Github &rarr; [repo](https://github.com/GabrielGoncalvesMeli/BootcampMeli/tree/main/git)
 
-- [x] Java + POO &rarr; [repo](https://github.com/GabrielGoncalvesMeli/BootcampMeli/tree/main/java/java01)
+:heavy_check_mark: Java + POO &rarr; [repo](https://github.com/GabrielGoncalvesMeli/BootcampMeli/tree/main/java/java01)
 
 - [ ] Testing &rarr; [repo]()
