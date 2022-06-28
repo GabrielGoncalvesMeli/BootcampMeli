@@ -14,6 +14,6 @@ public class Main {
         System.out.println(products[2].calculate(2));
         System.out.println(products[3].calculate(2));
         System.out.println(products[4].calculate(2));
-
+        System.out.println("Testing commit mac");
     }
 }
