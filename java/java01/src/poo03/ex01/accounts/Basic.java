@@ -1,7 +1,7 @@
-package poo03.accounts;
+package poo03.ex01.accounts;
 
-import poo03.interfaces.Deposit;
-import poo03.interfaces.Transfer;
+import poo03.ex01.interfaces.Deposit;
+import poo03.ex01.interfaces.Transfer;
 
 public class Basic implements Deposit, Transfer {
     @Override

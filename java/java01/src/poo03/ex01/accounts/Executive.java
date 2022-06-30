@@ -1,7 +1,7 @@
-package poo03.accounts;
+package poo03.ex01.accounts;
 
-import poo03.interfaces.GetBalance;
-import poo03.interfaces.Withdraw;
+import poo03.ex01.interfaces.GetBalance;
+import poo03.ex01.interfaces.Withdraw;
 
 public class Executive implements Withdraw, GetBalance {
     @Override
