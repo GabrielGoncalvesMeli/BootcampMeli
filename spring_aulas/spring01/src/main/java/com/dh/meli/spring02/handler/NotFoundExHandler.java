@@ -16,11 +16,11 @@ public class NotFoundExHandler {
     public ResponseEntity<NotFoundExceptionDetails> handlerNotFoundEx(NotFoundException ex) {
         return new ResponseEntity<NotFoundExceptionDetails>(
                 NotFoundExceptionDetails.builder()
-                    .titulo("Objeto não encontrado")
-                    .status(HttpStatus.NOT_FOUND.value())
-                    .mensagem(ex.getMessage())
-                    .timestamp(LocalDateTime.now())
-                    .build(),
+                        .titulo("Objeto não encontrado")
+                        .status(HttpStatus.NOT_FOUND.value())
+                        .mensagem(ex.getMessage())
+                        .timestamp(LocalDateTime.now())
+                        .build(),
                 HttpStatus.NOT_FOUND);
     }
 }

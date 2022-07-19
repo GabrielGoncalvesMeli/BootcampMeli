@@ -1,1 +1,37 @@
-[{"placa":"ABC 1234","modelo":"Fusca","valor":13000.0},{"placa":"DEF 4321","modelo":"Opala","valor":20000.0},{"placa":"xyz 8888","modelo":"Civic","valor":60000.0},{"placa":"xyz 8888","modelo":"Civic","valor":60000.0},{"placa":"xyz 8888","modelo":"Civic","valor":60000.0},{"placa":"xyz 8888","modelo":"Civic","valor":60000.0},{"placa":"xpt 2589","modelo":"Celta","valor":23000.0}]
+[
+  {
+    "placa": "ABC 1234",
+    "modelo": "Fusca",
+    "valor": 13000.0
+  },
+  {
+    "placa": "DEF 4321",
+    "modelo": "Opala",
+    "valor": 20000.0
+  },
+  {
+    "placa": "xyz 8888",
+    "modelo": "Civic",
+    "valor": 60000.0
+  },
+  {
+    "placa": "xyz 8888",
+    "modelo": "Civic",
+    "valor": 60000.0
+  },
+  {
+    "placa": "xyz 8888",
+    "modelo": "Civic",
+    "valor": 60000.0
+  },
+  {
+    "placa": "xyz 8888",
+    "modelo": "Civic",
+    "valor": 60000.0
+  },
+  {
+    "placa": "xpt 2589",
+    "modelo": "Celta",
+    "valor": 23000.0
+  }
+]

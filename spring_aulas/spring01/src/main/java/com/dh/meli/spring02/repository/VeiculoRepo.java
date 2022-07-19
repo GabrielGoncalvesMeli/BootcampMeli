@@ -39,7 +39,7 @@ public class VeiculoRepo {
         }
 
         for (Veiculo v : lista) {
-            if(v.getPlaca().equals(placa)) return v;
+            if (v.getPlaca().equals(placa)) return v;
         }
 
         throw new NotFoundException("Veículo não localizado");

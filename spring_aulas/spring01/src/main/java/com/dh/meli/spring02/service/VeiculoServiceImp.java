@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
-public class VeiculoServiceImp implements VeiculoService{
+public class VeiculoServiceImp implements VeiculoService {
 
     @Autowired // injeção de depencencia
     private VeiculoRepo repo;
