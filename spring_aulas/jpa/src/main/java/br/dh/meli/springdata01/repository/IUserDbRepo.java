@@ -8,4 +8,5 @@ import org.springframework.stereotype.Repository;
 public interface IUserDbRepo extends CrudRepository<UserBD, Long> {
     // CrudRepository já cria os métodos básicos de crud
     // com isso não é necessário declarar nada dentro dessa interface
+    UserBD findByEmail(String email);
 }
